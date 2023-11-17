@@ -92,3 +92,7 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
+
+
+
+## We are working on a recipe project and it requires scraping data
