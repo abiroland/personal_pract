@@ -94,5 +94,9 @@ server <- function(input, output, session) {
 shinyApp(ui, server)
 
 
+<<<<<<< HEAD
 
 ## We are working on a recipe project and it requires scraping data
+=======
+library(ggplot2)
+>>>>>>> 61979676719a883cedc46c34d423a435ff4def92
